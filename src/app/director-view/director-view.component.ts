@@ -1,3 +1,8 @@
+/**
+ * The director-view component is used to render a mat dialog containing information about the director of the movie selected
+ * @module DirectorViewComponent
+ */
+
 import { Component, Inject, OnInit } from '@angular/core';
 import { MAT_DIALOG_DATA } from '@angular/material/dialog';
 
